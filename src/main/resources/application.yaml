@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: order-management
+
+data:
+  mongodb:
+    uri: mongodb://localhost:27017/client_db
+    auto-index-creation: true
